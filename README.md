@@ -9,4 +9,4 @@ CountDownTimer is a React application that functions as a countdown timer. This 
 - **Reset Button**: Reset the timer to the initial state.
 - **Real-time Countdown**: Timer counts down second by second.
 
-[![Watch the video]](https://raw.githubusercontent.com/Atharva-Chaudhari123/CountDownTimer-React-app/video.webm)
+[![Watch the video]](https://github.com/Atharva-Chaudhari123/CountDownTimer-React-app/blob/main/video.webm)
